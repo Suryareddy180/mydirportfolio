@@ -29,7 +29,7 @@ This is a fully responsive and minimalistic site that showcases who I am, my ski
 
 ## 📸 Screenshots
 
-![Homepage Preview](Screenshot 2025-07-11 160528.png)  
+![Homepage Preview](Screenshot%202025-07-11%20160528.png)  
 *Minimalist design with a strong focus on personal branding*
 
 ---
