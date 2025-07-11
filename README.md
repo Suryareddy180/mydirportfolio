@@ -1,4 +1,4 @@
-# 🎬 Personal Portfolio – N. Surya Prakash Reddy
+# 🎬 DIRECTOR Portfolio – N. Surya Prakash Reddy
 
 Welcome to my personal portfolio website!  
 This is a fully responsive and minimalistic site that showcases who I am, my skills, projects, and contact info — all in one place.
